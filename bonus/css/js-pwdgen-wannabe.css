@@ -1,0 +1,23 @@
+
+body {
+  background-color: #151924;
+  color: #dfd9ff;
+}
+
+h1 {
+  margin-bottom: 50px;
+}
+
+h4 {
+  color: #616467;
+}
+
+#js-colore-preferito {
+  margin-bottom: 50px;
+}
+
+#js-password {
+  font-size: 50px;
+  text-align: center;
+  color: #fff;
+}
